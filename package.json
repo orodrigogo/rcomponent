@@ -2,12 +2,13 @@
     "name": "rcomponent",
     "displayName": "R Component",
     "description": "Be productive by building React Native components quickly.",
+    "publisher": "rcomponent",
     "author": {
         "name": "Rodrigo Gonçalves Santana",
         "email": "rodrigo.rgtic@gmail.com"
     },
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/rodrigorgtic/rcomponent.git"
