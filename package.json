@@ -4,7 +4,7 @@
     "description": "Be productive by building React Native components quickly.",
     "publisher": "rodrigorgtic",
     "galleryBanner": {
-        "color": "#8257E5",
+        "color": "#232323",
         "theme": "dark"
     },
     "author": {
@@ -12,7 +12,7 @@
         "email": "rodrigo.rgtic@gmail.com"
     },
     "license": "MIT",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/rodrigorgtic/rcomponent.git"
@@ -35,7 +35,6 @@
     "contributes": {
         "snippets": [
             {
-                "language": "*",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
