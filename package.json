@@ -2,7 +2,11 @@
     "name": "rcomponent",
     "displayName": "R Component",
     "description": "Be productive by building React Native components quickly.",
-    "publisher": "rcomponent",
+    "publisher": "rodrigorgtic",
+    "galleryBanner": {
+        "color": "#8257E5",
+        "theme": "dark"
+    },
     "author": {
         "name": "Rodrigo Gonçalves Santana",
         "email": "rodrigo.rgtic@gmail.com"
@@ -31,9 +35,12 @@
     "contributes": {
         "snippets": [
             {
-                "language": "javascript,typescript",
+                "language": "*",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^1.75.0"
     }
 }
