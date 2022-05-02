@@ -9,11 +9,14 @@
   <img alt="R Component" width="100%" title="R Component" src="./assets/header.png" />
 </h1>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=0A1033">
+<div align="center">
 
- <img src="https://img.shields.io/static/v1?label=RComponent&message=06&color=8257E6&labelColor=0A1033" alt="R Component" />
-</p>
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/rodrigorgtic.rcomponent.svg?label=Visual%20Studio%20Marketplace&color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=rodrigorgtic.rcomponent)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/rodrigorgtic.rcomponent.svg?color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=rodrigorgtic.rcomponent)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/rodrigorgtic.rcomponent.svg?color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=rodrigorgtic.rcomponent) 
+[![License](https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=0A1033)](https://marketplace.visualstudio.com/items?itemName=rodrigorgtic.rcomponent)
+</div>
+
 
 ## About
 This extension makes available a set of Snippets to create components for React Native applications.
