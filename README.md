@@ -29,7 +29,7 @@ You can too create a new with Stylesheet to custom our React Native Interfaces t
 
 List of available Snippets. Or **⇥** means the `TAB` key.
 
-|                    Gatilho | Conteúdo                                                                      |
+|                    Snippet | Content                                                                      |
 | -------------------------: | ----------------------------------------------------------------------------- |
 |                    `rnbc →` | Create a new **React Native Basic Component**                                             |
 |           `rnso →` | Create a new **React Native Stylesheet Component**                      |
