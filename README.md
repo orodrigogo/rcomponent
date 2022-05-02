@@ -5,6 +5,16 @@
 *** Thank you a lot!
 -->
 
+<h1 align="center">
+  <img alt="GamePlay" height="80" title="Logo" src="./assets/icon.png" />
+</h1>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=0A1033">
+
+ <img src="https://img.shields.io/static/v1?label=RComponent&message=06&color=8257E6&labelColor=0A1033" alt="R Component" />
+</p>
+
 ## About
 This extension makes available a set of Snippets to create components for React Native applications.
 
@@ -33,4 +43,5 @@ Any contribution you make will be **much appreciated**.
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/rodrigo-goncalves-santana/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:fhugoduarte@gmail.com)
 
+[![Github Badge](https://img.shields.io/badge/-github.com/rodrigorgtic-black?style=flat-square&logo=Github&logoColor=white)](https://github.com/rodrigorgtic)
 
