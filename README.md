@@ -42,6 +42,5 @@ Any contribution you make will be **much appreciated**.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.linkedin.com/in/rodrigo-goncalves-santana/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:fhugoduarte@gmail.com)
-
 [![Github Badge](https://img.shields.io/badge/-github.com/rodrigorgtic-black?style=flat-square&logo=Github&logoColor=white)](https://github.com/rodrigorgtic)
 
