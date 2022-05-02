@@ -6,7 +6,7 @@
 -->
 
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="Logo" src="./assets/header.png" />
+  <img alt="R Component" width="100%" title="R Component" src="./assets/header.png" />
 </h1>
 
 <p align="center">
