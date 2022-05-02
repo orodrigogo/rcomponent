@@ -1,8 +1,26 @@
 {
     "name": "rcomponent",
-    "displayName": "rcomponent",
-    "description": "Build React Native Components",
+    "displayName": "R Component",
+    "description": "Be productive by building React Native components quickly.",
+    "author": {
+        "name": "Rodrigo Gonçalves Santana",
+        "email": "rodrigo.rgtic@gmail.com"
+    },
+    "license": "MIT",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rodrigorgtic/rcomponent.git"
+    },
+    "homepage": "https://github.com/rodrigorgtic/rcomponent/blob/main/README.md",
+    "keywords": [
+        "vscode",
+        "react",
+        "react native",
+        "snippets",
+        "snippets"
+    ],
+    "icon": "assets/icon.png",
     "engines": {
         "vscode": "^1.66.0"
     },
