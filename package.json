@@ -1,0 +1,20 @@
+{
+    "name": "rcomponent",
+    "displayName": "rcomponent",
+    "description": "Build React Native Components",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript,typescript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
