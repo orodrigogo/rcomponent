@@ -38,7 +38,7 @@ List of available Snippets. Or **⇥** means the `TAB` key.
 |           `rnso →` | Create a new **React Native Stylesheet Component**                      |
 
 
-## Contribuição
+## Contribution
 Any contribution you make will be **much appreciated**.
 
 #### Find me elsewhere
