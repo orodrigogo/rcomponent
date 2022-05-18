@@ -18,6 +18,11 @@
 </div>
 
 
+<h1 align="center">
+  <img alt="demo" width="100%" title="R Component" src=".github/demo.gif" />
+</h1>
+
+
 ## About
 This extension makes available a set of Snippets to create components for React Native applications.
 
