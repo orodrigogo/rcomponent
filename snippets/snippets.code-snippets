@@ -27,5 +27,33 @@
       "});"
     ],
     "description": "Create a style object with Stylesheet on separate file."
+  },
+  "React Functional Component Structure": {
+    "prefix": "rnfc",
+    "body": [
+      "import React from 'react';",
+      "",
+      "import { Container } from './styles';",
+      "",
+      "export const ${TM_DIRECTORY/.*[\\\\\\/](.*)$/$1/}: React.FC = () => {",
+      "  return (",
+      "    <Container>",
+      "",
+      "    </Container>",
+      "  )",
+      "};"
+    ],
+    "description": "Create functional components with styled-components and support for Eslint."
+  },
+  "Basic Structure Styled Components": {
+    "prefix": "rnsc",
+    "body": [
+      "import styled from 'styled-components/native';",
+      "",
+      "export const Container = styled.View`",
+      "  flex: 1",
+      "`;"
+    ],
+    "description": "Create a basic framework for building components with styled-components."
   }
 }
