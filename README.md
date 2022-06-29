@@ -37,10 +37,14 @@ You can too create a new with Stylesheet to custom our React Native Interfaces t
 
 List of available Snippets. Or **⇥** means the `TAB` key.
 
-|                    Snippet | Content                                                                      |
+|                    Snippet | Content                                                                       |
 | -------------------------: | ----------------------------------------------------------------------------- |
-|                    `rnbc →` | Create a new **React Native Basic Component**                                             |
-|           `rnso →` | Create a new **React Native Stylesheet Component**                      |
+|                    `rnbc →` | Create a new **React Native Basic Component**                                |
+|                    `rnso →` | Create a new **React Native Stylesheet Component**                           |
+|                    `rnsc →` | Create a new **React Native Component with Styled Component**                           |
+|                    `rnscs →` | Create a new **Styled Component File**                           |
+|                    `rnsctc →` | Get the path to **color theme props**                           |
+|                    `rnsctf →` | Get the path to **fonts theme props**                           |
 
 
 ## Contribution

@@ -27,5 +27,47 @@
       "});"
     ],
     "description": "Create a style object with Stylesheet on separate file."
-  }
+  },
+  "React Native Styled Component": {
+    "prefix": "rnsc",
+    "body": [
+      "import React from 'react';",
+      "",
+      "import { Container } from './styles';",
+      "",
+      "export function ${TM_DIRECTORY/.*[\\\\\\/](.*)$/$1/}() {",
+      "  return (",
+      "    <Container>",
+      "",
+      "    </Container>",
+      "  );",
+      "}"
+    ],
+    "description": "Create the structure of a React Native with Styled Component"
+  },
+  "React Native Styled Component StyleSheet": {
+    "prefix": "rnscs",
+    "body": [
+      "import styled from 'styled-components/native';",
+      "",
+      "export const Container = styled.View`",
+      "  flex: 1;",
+      "`;",
+    ],
+    "description": "Create the structure of Styled Component StyleSheet"
+  },
+  "React Native Styled Component Color Theme": {
+    "prefix": "rnsctc",
+    "body": [
+      "${({ theme }) => theme.COLORS.};"
+    ],
+    "description": "Get the path to color theme props"
+  },
+  "React Native Styled Component Font Theme": {
+    "prefix": "rnsctf",
+    "body": [
+      "${({ theme }) => theme.FONTS.};"
+    ],
+    "description": "Create the path to color theme props"
+  },
 }
