@@ -70,4 +70,19 @@
     ],
     "description": "Create the path to color theme props"
   },
+  "Native Base Componente": {
+    "prefix": "nbc",
+    "body": [
+      "import { VStack } from 'native-base';",
+      "",
+      "export function ${TM_FILENAME_BASE/(.*)/${1:/pascalcase}/}() {",
+      "  return (",
+      "    <VStack>",
+      "",
+      "    </VStack>",
+      "  );",
+      "}"
+    ],
+    "description": "Create Native Base Component"
+  },
 }

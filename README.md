@@ -45,6 +45,7 @@ List of available Snippets. Or **⇥** means the `TAB` key.
 |                    `rnscs →` | Create a new **Styled Component File**                           |
 |                    `rnsctc →` | Get the path to **color theme props**                           |
 |                    `rnsctf →` | Get the path to **fonts theme props**                           |
+|                    `nbc →` | Create **Native Base** Component                           |
 
 
 ## Contribution
