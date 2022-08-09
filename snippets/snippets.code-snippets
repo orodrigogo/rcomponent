@@ -2,7 +2,6 @@
   "Basic React Native Component": {
     "prefix": "rnbc",
     "body": [
-      "import React from 'react';",
       "import { View } from 'react-native';",
       "",
       "import { styles } from './styles';",
@@ -31,8 +30,6 @@
   "React Native Styled Component": {
     "prefix": "rnsc",
     "body": [
-      "import React from 'react';",
-      "",
       "import { Container } from './styles';",
       "",
       "export function ${TM_DIRECTORY/.*[\\\\\\/](.*)$/$1/}() {",
