@@ -2,7 +2,6 @@
   "Basic React Native Component": {
     "prefix": "rnbc",
     "body": [
-      "import React from 'react';",
       "import { View } from 'react-native';",
       "",
       "import { styles } from './styles';",
@@ -31,7 +30,6 @@
   "React Native Styled Component": {
     "prefix": "rnsc",
     "body": [
-      "import React from 'react';",
       "import { Container } from './styles';",
       "",
       "export function ${TM_DIRECTORY/.*[\\\\\\/](.*)$/$1/}() {",
@@ -72,7 +70,6 @@
   "Native Base Componente": {
     "prefix": "nbc",
     "body": [
-      "import React from 'react';",
       "import { VStack } from 'native-base';",
       "",
       "export function ${TM_FILENAME_BASE/(.*)/${1:/pascalcase}/}() {",
